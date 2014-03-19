@@ -5,7 +5,7 @@ I personally like the first color to be black, so I begin with:
 
 	colors = [0,0,0; linspecer(10)];
 
-which creates a 11x3 matrix of RGB colors.
+which creates an 11x3 matrix of RGB colors.
 
 Note: you must add the linspecer to your path via:
 
